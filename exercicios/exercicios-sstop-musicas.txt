@@ -1,0 +1,1 @@
+Você deverá construir a modelagem para que seja cadastrado os estilos musicais de determinados artistas. Lembre-se de que cada artista poderá ter somente um estilo musical vinculado.
