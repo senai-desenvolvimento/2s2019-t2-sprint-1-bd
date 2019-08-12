@@ -6,7 +6,7 @@ DDL
 DML
 - Inserir 3 autores de sua escolha, bem como os gêneros.
 - Incluir 5 livros a sua escolha;
-- Alterar o nome do livro para que fiquem todas em maiúscula;
+- Alterar o nome do livro para que fiquem todas em maiúscula (1 livro somente);
 - Deletar o livro com o maior Id;
 
 DQL
